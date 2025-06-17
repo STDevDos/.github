@@ -1,12 +1,8 @@
-## Hi there 👋
+## Bienvenido a nuestra organización 👋
 
-<!--
+Este archivo se muestra en la página principal de la organización y es el lugar ideal para compartir información relevante.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **Quiénes somos**: Breve descripción de los objetivos y proyectos principales.
+- **Cómo contribuir**: Indica las pautas básicas para colaborar.
+- **Recursos**: Enlaces a la documentación o repositorios destacados.
+- **Dato curioso**: Comparte algo interesante sobre el equipo.
